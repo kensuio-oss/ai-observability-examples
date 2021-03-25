@@ -1,0 +1,15 @@
+*.zip
+*.json
+*.csv
+
+.DS_Store
+.ipynb_checkpoints/
+*.log
+*.jsonl
+
+*.txt
+*.pkl
+*.set
+df
+
+notebooks/Live Demo PySpark.ipynb

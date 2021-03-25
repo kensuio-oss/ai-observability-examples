@@ -1,0 +1,1 @@
+/Users/andy/.ipython/profile_default/startup/00-kensu.py
